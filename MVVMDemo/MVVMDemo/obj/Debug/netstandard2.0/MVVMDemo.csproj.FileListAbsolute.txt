@@ -1,0 +1,15 @@
+C:\Users\Academico\Source\Repos\MVVMDemo\MVVMDemo\MVVMDemo\bin\Debug\netstandard2.0\MVVMDemo.deps.json
+C:\Users\Academico\Source\Repos\MVVMDemo\MVVMDemo\MVVMDemo\bin\Debug\netstandard2.0\MVVMDemo.dll
+C:\Users\Academico\Source\Repos\MVVMDemo\MVVMDemo\MVVMDemo\bin\Debug\netstandard2.0\MVVMDemo.pdb
+C:\Users\Academico\Source\Repos\MVVMDemo\MVVMDemo\MVVMDemo\obj\Debug\netstandard2.0\MVVMDemo.csproj.AssemblyReference.cache
+C:\Users\Academico\Source\Repos\MVVMDemo\MVVMDemo\MVVMDemo\obj\Debug\netstandard2.0\MVVMDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Academico\Source\Repos\MVVMDemo\MVVMDemo\MVVMDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Academico\Source\Repos\MVVMDemo\MVVMDemo\MVVMDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Academico\Source\Repos\MVVMDemo\MVVMDemo\MVVMDemo\obj\Debug\netstandard2.0\Views\ListProductView.xaml.g.cs
+C:\Users\Academico\Source\Repos\MVVMDemo\MVVMDemo\MVVMDemo\obj\Debug\netstandard2.0\Views\ProductView.xaml.g.cs
+C:\Users\Academico\Source\Repos\MVVMDemo\MVVMDemo\MVVMDemo\obj\Debug\netstandard2.0\MVVMDemo.AssemblyInfoInputs.cache
+C:\Users\Academico\Source\Repos\MVVMDemo\MVVMDemo\MVVMDemo\obj\Debug\netstandard2.0\MVVMDemo.AssemblyInfo.cs
+C:\Users\Academico\Source\Repos\MVVMDemo\MVVMDemo\MVVMDemo\obj\Debug\netstandard2.0\MVVMDemo.csproj.CoreCompileInputs.cache
+C:\Users\Academico\Source\Repos\MVVMDemo\MVVMDemo\MVVMDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Academico\Source\Repos\MVVMDemo\MVVMDemo\MVVMDemo\obj\Debug\netstandard2.0\MVVMDemo.dll
+C:\Users\Academico\Source\Repos\MVVMDemo\MVVMDemo\MVVMDemo\obj\Debug\netstandard2.0\MVVMDemo.pdb

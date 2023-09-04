@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:vm="clr-namespace:MVVMDemo.ViewModels"
+             x:Class="MVVMDemo.Views.ProductView">
+
+    <ContentPage.BindingContext>
+        <vm:ProductViewModel/>
+    </ContentPage.BindingContext>
+    
+    <ContentPage.Content>
+        <Grid Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Row="0" Grid.Column="0" Text="Lugar"/>
+            <Entry Grid.Row="0" Grid.Column="1" Text="{Binding Name}"/>
+
+            <Label Grid.Row="1" Grid.Column="0" Text="Precio"/>
+            <Entry Grid.Row="1" Grid.Column="1" Text="{Binding Precio}" Keyboard="Numeric"/>
+
+            <Label Grid.Row="2" Grid.Column="0" Text="Nombre"/>
+            <Entry Grid.Row="2" Grid.Column="1" Text="{Binding Nombre}"/>
+
+            <Label Grid.Row="3" Grid.Column="0" Text="Hora"/>
+            <Entry Grid.Row="3" Grid.Column="1" Text="{Binding Hora}"/>
+
+            <Label Grid.Row="4" Grid.Column="0" Text="Fecha"/>
+            <Entry Grid.Row="4" Grid.Column="1" Text="{Binding Fecha}"/>
+
+            <Label Grid.Row="5" Grid.Column="0" Text=""/>
+            <Switch Grid.Row="5" Grid.Column="1" IsToggled="{Binding IsAvailable}" />
+
+            <Button Grid.Row="6" Grid.Column="0" Text="Enviar a correo" Command="{Binding SensdEmailCommand}"/>
+            <Button Grid.Row="6" Grid.Column="1" Text="Limpiar todo" Command="{Binding ClearCommand}"/>
+
+            <StackLayout Grid.Row="7" Grid.Column="0" Grid.ColumnSpan="2">
+                <Label Text="{Binding Name, StringFormat='Lugar: {0}'}"/>
+                <Label Text="{Binding Precio, StringFormat='Precio: {0:N2}'}"/>
+                <Label Text="{Binding Nombre, StringFormat='Nombre: {0}'}"/>
+                <Label Text="{Binding Hora, StringFormat='Hora: {0}'}"/>
+                <Label Text="{Binding Fecha, StringFormat='Fecha: {0}'}"/>
+                <CheckBox IsChecked="{Binding IsAvailable}"/>
+            </StackLayout>
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
