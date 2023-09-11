@@ -16,7 +16,7 @@ androidsdkpath=c:\program files (x86)\android\android-sdk\
 androidndkpath=
 javasdkpath=c:\program files\microsoft\jdk-11.0.16.101-hotspot\
 androidsequencepointsmode=none
-xamarinandroidversion=13.2.0-6
+xamarinandroidversion=13.2.1-2
 monosymbolarchive=false
 androiduselatestplatformsdk=false
 targetframeworkversion=v9.0
@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638294333199037519
+_nugetassetstimestamp=638298839275443855
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=c:\users\academico\source\repos\mvvmdemo\mvvmdemo\mvvmdemo.android\mvvmdemo.android.csproj
+projectfullpath=c:\users\user\desktop\xamarin_vr1\mvvmdemo\mvvmdemo.android\mvvmdemo.android.csproj

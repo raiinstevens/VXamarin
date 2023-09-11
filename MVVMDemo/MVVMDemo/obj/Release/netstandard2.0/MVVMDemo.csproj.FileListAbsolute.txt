@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Xamarin_vr1\MVVMDemo\MVVMDemo\bin\Release\netstandard2.0\MVVMDemo.deps.json
+C:\Users\USER\Desktop\Xamarin_vr1\MVVMDemo\MVVMDemo\bin\Release\netstandard2.0\MVVMDemo.dll
+C:\Users\USER\Desktop\Xamarin_vr1\MVVMDemo\MVVMDemo\bin\Release\netstandard2.0\MVVMDemo.pdb
+C:\Users\USER\Desktop\Xamarin_vr1\MVVMDemo\MVVMDemo\obj\Release\netstandard2.0\MVVMDemo.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Xamarin_vr1\MVVMDemo\MVVMDemo\obj\Release\netstandard2.0\MVVMDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Xamarin_vr1\MVVMDemo\MVVMDemo\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\USER\Desktop\Xamarin_vr1\MVVMDemo\MVVMDemo\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\USER\Desktop\Xamarin_vr1\MVVMDemo\MVVMDemo\obj\Release\netstandard2.0\Views\ListProductView.xaml.g.cs
+C:\Users\USER\Desktop\Xamarin_vr1\MVVMDemo\MVVMDemo\obj\Release\netstandard2.0\Views\Page1.xaml.g.cs
+C:\Users\USER\Desktop\Xamarin_vr1\MVVMDemo\MVVMDemo\obj\Release\netstandard2.0\Views\ProductView.xaml.g.cs
+C:\Users\USER\Desktop\Xamarin_vr1\MVVMDemo\MVVMDemo\obj\Release\netstandard2.0\MVVMDemo.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Xamarin_vr1\MVVMDemo\MVVMDemo\obj\Release\netstandard2.0\MVVMDemo.AssemblyInfo.cs
+C:\Users\USER\Desktop\Xamarin_vr1\MVVMDemo\MVVMDemo\obj\Release\netstandard2.0\MVVMDemo.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Xamarin_vr1\MVVMDemo\MVVMDemo\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\USER\Desktop\Xamarin_vr1\MVVMDemo\MVVMDemo\obj\Release\netstandard2.0\MVVMDemo.dll
+C:\Users\USER\Desktop\Xamarin_vr1\MVVMDemo\MVVMDemo\obj\Release\netstandard2.0\MVVMDemo.pdb

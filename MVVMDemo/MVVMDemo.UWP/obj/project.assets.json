@@ -10284,28 +10284,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Academico\\.nuget\\packages\\": {},
+    "C:\\Users\\USER\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Academico\\Source\\Repos\\MVVMDemo\\MVVMDemo\\MVVMDemo.UWP\\MVVMDemo.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Xamarin_vr1\\MVVMDemo\\MVVMDemo.UWP\\MVVMDemo.UWP.csproj",
       "projectName": "MVVMDemo.UWP",
-      "projectPath": "C:\\Users\\Academico\\Source\\Repos\\MVVMDemo\\MVVMDemo\\MVVMDemo.UWP\\MVVMDemo.UWP.csproj",
-      "packagesPath": "C:\\Users\\Academico\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Academico\\Source\\Repos\\MVVMDemo\\MVVMDemo\\MVVMDemo.UWP\\obj\\",
+      "projectPath": "C:\\Users\\USER\\Desktop\\Xamarin_vr1\\MVVMDemo\\MVVMDemo.UWP\\MVVMDemo.UWP.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\Xamarin_vr1\\MVVMDemo\\MVVMDemo.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Academico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "uap10.0.16299"
@@ -10317,8 +10320,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\Academico\\Source\\Repos\\MVVMDemo\\MVVMDemo\\MVVMDemo\\MVVMDemo.csproj": {
-              "projectPath": "C:\\Users\\Academico\\Source\\Repos\\MVVMDemo\\MVVMDemo\\MVVMDemo\\MVVMDemo.csproj"
+            "C:\\Users\\USER\\Desktop\\Xamarin_vr1\\MVVMDemo\\MVVMDemo\\MVVMDemo.csproj": {
+              "projectPath": "C:\\Users\\USER\\Desktop\\Xamarin_vr1\\MVVMDemo\\MVVMDemo\\MVVMDemo.csproj"
             }
           }
         }

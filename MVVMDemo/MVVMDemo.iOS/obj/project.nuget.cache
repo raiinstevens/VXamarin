@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "p8WWw5HWA9pG3xTlYg3dWbiuhC3PyCJb0gjriqNCJnql/dKptnWHmfNgtZL2hVm4YzOH2lZSTQ7k6OFslaxxsg==",
+  "dgSpecHash": "hP6GauYFjyOWTt701SZYaKRWWgaVW0T69APByhkbANW7ieSSmEMjZ1Lc0WQN7aqyd4iYWISWjzy9mKBm7wcRng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Academico\\Source\\Repos\\MVVMDemo\\MVVMDemo\\MVVMDemo.iOS\\MVVMDemo.iOS.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\Xamarin_vr1\\MVVMDemo\\MVVMDemo.iOS\\MVVMDemo.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Academico\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\Academico\\.nuget\\packages\\xamarin.essentials\\1.1.0\\xamarin.essentials.1.1.0.nupkg.sha512",
-    "C:\\Users\\Academico\\.nuget\\packages\\xamarin.forms\\4.1.0.555618\\xamarin.forms.4.1.0.555618.nupkg.sha512"
+    "C:\\Users\\USER\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\xamarin.essentials\\1.1.0\\xamarin.essentials.1.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\xamarin.forms\\4.1.0.555618\\xamarin.forms.4.1.0.555618.nupkg.sha512"
   ],
   "logs": []
 }

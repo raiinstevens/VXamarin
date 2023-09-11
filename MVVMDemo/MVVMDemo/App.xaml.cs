@@ -10,7 +10,8 @@ namespace MVVMDemo
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new Views.ListProductView());
+            //MainPage = new NavigationPage(new Views.ListProductView());
+            MainPage = new NavigationPage(new Views.Page1());
         }
 
         protected override void OnStart()

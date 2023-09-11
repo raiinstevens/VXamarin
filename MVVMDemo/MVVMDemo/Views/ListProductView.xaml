@@ -6,23 +6,27 @@
              mc:Ignorable="d"
              xmlns:local="clr-namespace:MVVMDemo.Views"
              x:Class="MVVMDemo.Views.ListProductView">
-
-
     <ContentPage.Content>
-        <StackLayout Margin="10">
-            <Button Text="Go To Details"
-                    Command="{Binding GoToDetailsCommand}"
-                    CommandParameter="{x:Type local:ProductView}"/>
+        <Grid>
+            <!-- Fondo azul -->
+            <BoxView Color="#8DB7E9" AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="All" />
 
-            <ListView ItemsSource="{Binding Products}"
-                      SelectedItem="{Binding SelectedProduct}">
-                <ListView.ItemTemplate>
-                    <DataTemplate>
-                        <TextCell Text="{Binding Name}"
-                                  Detail="{Binding Hora}"/>
-                    </DataTemplate>
-                </ListView.ItemTemplate>
-            </ListView>
-        </StackLayout>
+            <!-- Contenido de la página -->
+            <StackLayout Margin="10">
+                <Button Text="Ver detalles de viaje"
+                        Command="{Binding GoToDetailsCommand}"
+                        CommandParameter="{x:Type local:ProductView}"/>
+
+                <ListView ItemsSource="{Binding Products}"
+                          SelectedItem="{Binding SelectedProduct}">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextCell Text="{Binding Name}"
+                                      Detail="{Binding Hora}"/>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </Grid>
     </ContentPage.Content>
 </ContentPage>
